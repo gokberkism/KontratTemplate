@@ -70,4 +70,4 @@ Sartname Kapsamın tanımı ile başlayacaktır.
 Fiziki  Özellikler.
 Donanımsal Özellikler
 Yazılım Özellikler
-
+Baslik....

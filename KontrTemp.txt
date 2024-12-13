@@ -72,3 +72,4 @@ Donanımsal Özellikler
 Yazılım Özellikler
 Baslik....
 Dip Notlar
+Dip Not 2_01

@@ -1,0 +1,67 @@
+Kontrat Template…
+Kontrat Türü: 
+Proses Projesi Yonetim Danısmanlık Kontrat
+	Müşteri – Talep eden mevcut bir prosesini iyileştirecek ya da yeni bir proses üretmek istemekte ve bunun icin proje yönetim kontratı yapmak istemektedir.
+Ürün Proje Yönetim Danışmanlık Kontrat
+	Mevcut bir proses(ler) te ya da yeni proses(ler)i içerecek bir ürün oluşturmak istemekte  ve bunun başarısına katkıda bulunmak icin Yönetim Danışmanlığı talep etmektedir.
+Teknik Danışmanlık Yönetim Kontrat
+	Ürün ya da Proses icin Teknik-Tasarım ve tercihen Üretimi de içeren Proje (Yönetim) Danışmanlığı
+Tüm danışmanlıklarda Danışmanlık veren proje başarısını garanti etmez ancak başarısı icin kontrat kapsamında danışmanlık servisini verir. Monitör eder ve Raporlar. Servislerin tümü, içerik, süre,… olarak, yapılan kontrat kapsamında belirlenecektir.
+
+Kontrat Oluşturmak icin Yapılması Gerekenler
+1.	Danışmanlık konusu nedir?
+
+Ürün Geşitirme (Yeni), Ürün İyileştirme (Proses Geliştirme),
+
+2.	Danışmanlığa konu olan nesnenin tarifi? Proje sonucunda ne isteniyor?
+
+Ürünün tarifi, müşterinin yeterli bulacağı tarifi, ölçülebilir kriterleri nedir?
+
+Proje sonuçlandırırken başarılı ya da başarısız kararını vermeye esas teşkil edecektir. 
+
+3.	Ürünün müşterisi kim? Müşterilerin istekleri, özellikler ve fiat analizi yapıldı mı?
+
+Product icin o production müşterisi olanların fikirleri alınmalıdır. Müşterisi olamayacak, satılmayacak ya da kullanılmayacak bir ürünü üretmek, geliştirmek, iyileştirmek gereksiz olur ve sermaye kaybettirir -zaman,para,emek-.
+
+4.	Bu ürün ya da prosese icin ilişkili mevcut çözümler,  patentler, fikri ve mülki haklar, sağlaması gerekn standartlar, … araştirması gereçekleştirilmiş mi?
+Bu araştırma tamamıyle müşterinin sorumluluğunda olup, müşteri danışmandan Teknik anlamda destek isteyecekse kontratta bunun belirtilmesi ve buna göre fiat verilmesi önemlidir. Danışman bu başlık altında gerekirse outsourcing yapacak ve bu servisi sağlayabilecektir. (konunun uzmanını araştırıp bulabilir,ve projeye katkısını sağlama noktasında destek sunmayı Kabul edebilir ya da tümden bu destek talebini reddebilir.). Bu başlık altındaki tüm faliyetler ve  olası sonuçların sorumluluğu müşteride olacaktır.  
+
+
+
+5.	Bu çalışmalar yapılıp, danışmana sunulduktan sonra müşterinin tasarımı değerlendirilir. 
+
+Danışman bu tip kontratta Teknik Tasarım yapmaz ancak varsa görüşünü bildirir tasarıma ilişkin her türlü sorumluluk müşteriye aittir. Yapılan tasarım dökümane edilir. Şartname oluşturulur. Bu şartname projenin amacını oluşturan ürünü tarifler gereken görsel ve Teknik özellikleri, çizimleri içerir. Teknik özellikler ürünün gereksinim özellikleir olacak olup bunlar yerine getirilirse Teknik olarak ürün fonksiyonunu yerine getirebilmelidir. Nihai kullanıcı bu gereksinim özelliklerini ve dolayısıyla şartname şartlarnının sağlanı sağlanmadığını control ve test edecek ve ürünü öyle KABUL edecektir. Şartlar sağlanmıyorsa nihai kullanıcı ürünü RED edebileceğinden, özellikle bu madde son derece önenmlidir ve bu tamamen müşterinin sorumluluğundadır. Yönetim Danışmanlık servisi veren tarafa bir sorumluluk düşmeyecektir.
+
+6.	Ürün ya da Prosesi geliştirmek icin müşteri tarafından oluşuturulan tasarıma göre müşteri gerekli kaynaklara sahip mi? 
+
+Tasarıma göre ihtiyaç duyulan kaynaklar belirlenir ve bu kaynakları özelinde  müşterinin bu kaynaklara sahip olup olmadığı değerlendirilir.
+İnsan kaynakları, uzmanlıklar, üretim faktörleri ( Teknik personel, CFD, Elektronik Taasarım, Mekatronik, Dijital Dönüşüm, IT alt yapısı vb,…).
+Eksik bulunan başlıklarda müşterinin bu gereksinilen alt yapıları çeşitli modellerle tamamlaması gerekir. Bu süreçte danışman tarafından yine destek ve tetkik ve control ve monitoring  sağlanacaktır.
+
+7.	Proje, danışman firma açısından, servis olarak başlatılır.
+Önceki adımlarda yapılan çalışmalar proje kapsamında proje dosyasına arşivlenir.
+
+8.	Projenin gereksinimlerine uygun olarak, uzmanlık alanlarında çalışacak ekip oluşturulur. 
+9.	Danışmanlığa konu olan ürünün gerçekleştirimesi icin iş planlamaları yapılır.
+Adam-Saat-Gün ve İş-Süreç Zaman çizelgeleri hazırlanır (ayrıntıya inmeksizin) müşteriye iletilir. 
+10.	Projenin yönetimi icin koordinasyona yönelik gözden geçirme ve monitoring ler yazılı aylık raporlamalarla takip edilir. 
+Proje-servis, düzenli aylık-haftalık raporlamalar üzerinden gerçekleştirilen izleme ve kontroller faliyetlerinde proje adımlarına dair bir aksaklık olu olmadığı tekik edilir. Gerekirse süreçlere müdahele edilir. Proje yönetim çizelgelerinde ve aşama raporlamaları güncellenir. 
+
+11.	Kontratın şartlarına göre gerekiyorsa proje bitirilişine kadar monitoring ve raporlamalar takip edilir.
+Danışmanlık kontratı proje bitirilişini içermiyorsa, service ilişkin servisin verildiğine dair yazılı belge müşteriden ıslak imzalı olarak talep edilir ve bu belge muhafa edilip service ilişkin dosya danışman firma tarafında sonlandırılır.
+
+12.	Proje -Servis Sonlandırılması
+İş planlama çizelgelerine süre süre sonunda ortaya çıkan ürün şartname gereksinimlerini karşılıyorsa BAŞARI lı olraka raporlanarak proje sonlandırılır. Ürün şartname gereksinilerini sağlamıyorsa BAŞARISIZ olarak sonlandırılır ve bu durum raporlanır. BAŞARIZ lık durumunda ekstra bir aksiyon alınacaksa bu müşterinin kararı olup danışman firmaya bir sorumluluk düşmez.
+  
+
+Proje-Servis Şartname – Kontrat oluşturulması
+Ürün Şartnamesi – Teknik şartname – Gereksinim özellikleri
+Teknik Şartname. 
+	Donanımsal Özellikler - Fiziki Özellikler, standartlara atıflar, müşteri gereksinimlerini karşılamayı garanti edecek ve maliyetleri de makul düzeyde tutacak!
+	Yazılımsal Özellikler – Yazılım gereksinim özellikleri, müşteri gereksinimlerini karşılayacak  ve maliyetleri de makul düzeyde tutacak!
+Proje Ekibi oluşturulması 
+Proje Ekibinin ön tasarımın yapılması,
+Proje iş adımlarının ve zaman çizelgelerinin oluşturulması ve projenin başlatılması. 
+Ayrıntılı ve nihai tasarımın yapılması (bu aşamaya gerekiyorsa ve yapabiliyorsa danışman bizzat destek verebilir, outsourcing yapıp katkı önerebilir.)
+Tasarımın dondurulması ve olabildiğince parallel şekilde donanım ve yazılımsal (gerekiyorsa ve mümkünse) proje alt gruplarının üretim-geliştirmeye başlar.
+Tanımlı adımların sürelerine göre belirli sıklıkta proje adımlarının ilrleme raporlarınındüzenlenmesi ve projenin genel  tetkik ve kontrolünün yapılması. Bu noktada danışman projenin başarısı icin müşteride bir proje sorumlu lideri üzerinden koordinasyonlu bir şekilde projeyi monitor eder ve gerekli müdahaleleri düzeltici faliyetleri önerir. 

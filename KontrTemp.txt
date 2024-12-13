@@ -71,3 +71,4 @@ Fiziki  Özellikler.
 Donanımsal Özellikler
 Yazılım Özellikler
 Baslik....
+Dip Notlar

@@ -66,6 +66,8 @@ Ayrıntılı ve nihai tasarımın yapılması (bu aşamaya gerekiyorsa ve yapabi
 Tasarımın dondurulması ve olabildiğince parallel şekilde donanım ve yazılımsal (gerekiyorsa ve mümkünse) proje alt gruplarının üretim-geliştirmeye başlar.
 Tanımlı adımların sürelerine göre belirli sıklıkta proje adımlarının ilrleme raporlarınındüzenlenmesi ve projenin genel  tetkik ve kontrolünün yapılması. Bu noktada danışman projenin başarısı icin müşteride bir proje sorumlu lideri üzerinden koordinasyonlu bir şekilde projeyi monitor eder ve gerekli müdahaleleri düzeltici faliyetleri önerir. 
 
+index.html must be checked in footer!
+
 Sartname Kapsamın tanımı ile başlayacaktır.
 Fiziki  Özellikler.
 Donanımsal Özellikler
